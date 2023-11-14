@@ -1,9 +1,9 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center>
+
 ![](https://github-profile-trophy.vercel.app/?username=MochaFurr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</p>
+
   
 # 💫 About Me:
 Hello there! I'm Petre Catalin, a passionate front-end developer with a focus on creating engaging and responsive web applications. I'm currently honing my skills through courses at LinkAcademy and Udemy.
