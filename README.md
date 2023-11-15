@@ -25,12 +25,3 @@ Hello there! I'm Petre Catalin, a passionate front-end developer with a focus on
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaFurr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </p>
 </p>
-
-
-
-
-# 💻 Tech Stack:
-
-
-
-
